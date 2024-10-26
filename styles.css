@@ -1,6 +1,6 @@
 /* Global Styles */
 * {
-    margin: 100px;
+    margin: 0px;
     padding: 0;
     box-sizing: border-box;
 }
@@ -11,9 +11,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 200vh;
     padding: 20px;
-    margin-top: 260px;
+    margin-top: 0px;
 }
 
 .container {
